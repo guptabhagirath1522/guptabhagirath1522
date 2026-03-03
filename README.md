@@ -6,7 +6,7 @@
 </a>
 
 - 🔭 I’m currently working as a **Software Engineer**
-- 📱 Building **production-grade Flutter & Full-Stack applications**
+- 📱 Building **production-grade Full-Stack web & Flutter applications**
 - 🚀 Experienced in **Flutter, Next.js, React.js, Node.js, MongoDB, Firebase**
 - 🌱 I’m currently learning **Advanced System Design & Mobile Architecture**
 - 🤝 I’m open to **freelance work & collaborations**
@@ -77,6 +77,15 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql)
+
+### **AI / Machine Learning**
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai)
+![Claude](https://img.shields.io/badge/Claude-AI5CFF?style=flat&logo=anthropic)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC72C?style=flat&logo=huggingface)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch)
 
 ### **Tools**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git)
