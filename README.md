@@ -99,7 +99,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=guptabhagirath1522&theme=radical&hide_border=false&show_icons=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=guptabhagirath1522&theme=radical&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=guptabhagirath1522&theme=radical&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guptabhagirath1522&theme=radical&hide_border=false&layout=compact)
 
